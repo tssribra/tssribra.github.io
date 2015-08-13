@@ -79,24 +79,24 @@ box-shadow:none;
 
 
 /*** foot pages ****/
-.footer_cont {
-	padding:20px 20px 20px 20px;
+#home .footer_cont {
+	padding:15px 20px 20px 20px;
 	background:#81816a;
 	position:relative;
 }
 
-.footer_cont h1{
+#home .footer_cont h1{
 	 margin-top:30px;
 	 font-size:18px;
 	 color:#ffffff;
 }
 
-.footer_cont h2{
+#home .footer_cont h2{
 	 font-size:14px;
 	 color:#ffffff;
 }
 
-.footer_cont a{
+#home .footer_cont a{
  	color:#ffffff;
 }
 
