@@ -86,19 +86,15 @@ box-shadow:none;
 }
 
 .footer_cont h1{
-margin-top:30px;
 font-size:18px;
-color:#5f5e4e;
+color:#ffffff;
 font-weight:bold;
-font-style:italic;
 }
 
 .footer_cont h2{
-margin-top:30px;
-font-size:14px;
-color:#5f5e4e;
-font-weight:bold;
-font-style:italic;
+ font-size:14px;
+ color:#ffffff;
+ font-weight:bold;
 }
 
 /*** home **/ 
