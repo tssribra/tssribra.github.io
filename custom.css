@@ -86,16 +86,14 @@ box-shadow:none;
 }
 
 .footer_cont h1{
-margin-top:20px;
-font-size:18px;
-color:#ffffff;
-font-weight:bold;
+ margin-top:30px;
+ font-size:18px;
+ color:#ffffff;
 }
 
 .footer_cont h2{
  font-size:14px;
  color:#ffffff;
- font-weight:bold;
 }
 
 /*** home **/ 
