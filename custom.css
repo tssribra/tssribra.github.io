@@ -112,6 +112,41 @@ box-shadow:none;
  	color:#ffffff;
 }
 
+
+
+#choisir_restau .footer_cont {
+	padding:15px 20px 20px 20px;
+	background:#81816a;
+	position:relative;
+}
+
+#choisir_restau .footer_cont h1{
+	 margin-top:10px;
+	 font-size:18px;
+	 color:#ffffff;
+	 font-weight:normal;
+	 text-shadow:none;
+}
+
+#choisir_restau .footer_cont h2{
+	 font-size:14px;
+	 color:#ffffff;
+	 font-weight:normal;
+	 text-shadow:none;
+}
+
+#choisir_restau .footer_cont h3{
+	  margin-top:30px;
+	 font-size:12px;
+	 color:#ffffff;
+	 font-weight:normal;
+	 text-shadow:none;
+}
+
+#choisir_restau .footer_cont a{
+ 	color:#ffffff;
+}
+
 /*** home **/ 
 
 #branding{
