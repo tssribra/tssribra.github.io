@@ -1,0 +1,59 @@
+<!DOCTYPE html> 
+<html> 
+	<head>
+  <meta charset="UTF-8">	
+	<title>Restaurant 9103 </title> 
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+	<link rel="stylesheet" href="jquery.mobile.structure-1.0.1.css" />
+	<link rel="apple-touch-icon" href="images/launch_icon_57.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="images/launch_icon_72.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="images/launch_icon_114.png" />
+	<link rel="stylesheet" href="jquery.mobile-1.0.1.css" />
+	<link rel="stylesheet" href="custom.css" />
+	<script src="js/jquery-1.7.1.min.js"></script>
+	<script src="js/jquery.mobile-1.0.1.min.js"></script>
+</head> 
+
+<body> 
+<div data-role="page" id="home" data-theme="c">
+
+	<div data-role="content">
+	<!-- Banner -->
+	<div id="branding"> 
+		<h1>Restaurant 1903 </h1>
+	</div>
+	
+	<div class="choice_list"> 
+	<h1>Our Menu</h1>
+	<!-- Menu list -->
+	<ul data-role="listview" data-inset="true" >
+	<li><a href="choose_pasta.html" data-transition="slidedown"> <img src="sushis.jpg"/> <h3> Pasta</h3></a></li>
+	<li><a href="choose_town.html"  data-transition="slidedown"> <img src="pizza.jpg"/> <h3> Pizza </h3></a></li>
+	<li><a href="choose_town.html"  data-transition="slidedown"> <img src="kebap.jpg"/> <h3> Salad</h3></a></li>
+	<li><a href="choose_town.html"  data-transition="slidedown"> <img src="burger.jpg"/> <h3> Burger</h3></a></li>
+	<li><a href="choose_town.html"  data-transition="slidedown"> <img src="nems.jpg"/> <h3> Desserts</h3></a></li>
+	<li><a href="choose_town.html"  data-transition="slidedown"> <img src="tradi.jpg"/> <h3>Special</h3></a></li>	
+	</ul>	
+	
+	</div>
+    <!-- Contact information -->
+    <div class="ui-grid-a" id="contact_infos">	
+		<div class="ui-block-a">
+		<h2> Contact us</h2>
+		<p>6/6-8 Rolls Ct</p>
+		<p> Glen Waverley	</p>
+        <!-- Calling to given number -->
+        <p>Mobile: <a href="tel:0425230466">0425230466 </a></p>		
+		</div>		
+        <!-- google maps in iframe -->
+		<div class="ui-block-a">
+		<iframe src="https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=6-8+Rolls CT+Glen Weverley+VIC 3150&t=m&output=embed">
+		</iframe>	
+		</div>
+	</div>
+	</div>
+
+</div><!-- /page -->
+</body>
+</html>
