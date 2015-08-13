@@ -77,6 +77,18 @@ background:rgba(0, 0, 0, 0.3);
 box-shadow:none;
 }
 
+/*** Form raw***/
+
+.form_raw{
+	text-align:center;
+	padding:20px 0 20px;
+}
+
+.feedback.button{
+	background:#666600;
+	text-align: right;
+	margin: 5px 0;
+}
 
 /*** foot pages ****/
 #home .footer_cont {
