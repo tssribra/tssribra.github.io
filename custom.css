@@ -25,12 +25,12 @@ border-radius:0.2em;
 
 .ui-btn-active {
 background: #669900; /* Old browsers support  change the button click color here */
-background: -moz-linear-gradient(top,  #669900 0%, #669900 100%); /* FF3.6+ */
-background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#669900), color-stop(100%,#669900)); /* Chrome,Safari4+ */
-background: -webkit-linear-gradient(top,  #669900 0%,#669900 100%); /* Chrome10+,Safari5.1+ */
-background: -o-linear-gradient(top,  #669900 0%,#669900 100%); /* Opera 11.10+ */
-background: -ms-linear-gradient(top,  #669900 0%,#669900 100%); /* IE10+ */ 
-background: linear-gradient(top,  #669900 0%,#669900 100%); /* W3C */
+background: -moz-linear-gradient(top,  #666600 0%, #666600 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#666600), color-stop(100%,#666600)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #666600 0%,#666600 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #666600 0%,#666600 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #666600 0%,#666600 100%); /* IE10+ */ 
+background: linear-gradient(top,  #666600 0%,#666600 100%); /* W3C */
 color:#fff !important;
 }
 .ui-content .choice_list  .ui-btn-active .ui-link-inherit,
