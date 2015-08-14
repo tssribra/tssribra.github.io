@@ -25,16 +25,19 @@
 	<div id="feedback">
         <form  action="feedbackdone.html" method="post"> 
             <p> 
-                <label>Customer Name</label>
+                <label>Customer Name <span class="required"> * </span></label>
                 <input id="customername" name="customername" required="required" type="text" />
             </p>
             <p> 
-                <label> Customer Phone</label>
+                <label> Customer Phone <span class="required"> * </span></label>
                 <input id="customerphone" name="customerphone" required="required" type="text" /> 
             </p>
             <p> 
                 <label>Feedback </label>
                 <textarea name="customerfeedback" id="customerfeedback"></textarea>
+            </p>
+            <p> 
+               <span class="required"> * </span> indicates a required filed
             </p>
             <p class="feedback button"> 
                 <input type="submit" value="Submit"/> 

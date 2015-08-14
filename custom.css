@@ -158,6 +158,12 @@ box-shadow:none;
  	color:#ffffff;
 }
 
+
+.required {
+    font-weight:bold;
+    color:#F00;    
+}
+
 /*** home **/ 
 
 #branding{
